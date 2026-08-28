@@ -1,0 +1,7 @@
+{
+  "name": "AR PRIME AI",
+  "description": "AR PRIME AI Voice Assistant with Gemini Live audio pipeline, multilingual intelligence, and real Android device function calling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
